@@ -1,5 +1,5 @@
 # K17TheMovieDb
-The app has main 3 activities.
+The app has mainly 3 activities.
 	-MainActivity
 	-ActualMainActivity(Displays the list of all movies)
 	-SecondActivity(Displays the details of the movie)
